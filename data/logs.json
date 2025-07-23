@@ -1,0 +1,19 @@
+ 
+[
+  {
+    "url": "http://suspicious-site.com",
+    "reputation": 0.2,
+    "clicked_similar": false,
+    "attachment": true,
+    "exe": true,
+    "habit_score": 0.9
+  },
+  {
+    "url": "https://safe-site.org",
+    "reputation": 0.95,
+    "clicked_similar": true,
+    "attachment": false,
+    "exe": false,
+    "habit_score": 0.1
+  }
+]
